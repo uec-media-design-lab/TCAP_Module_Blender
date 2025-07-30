@@ -1,0 +1,4 @@
+# Ignore all __pycache__ folders recursively
+**/__pycache__/
+
+*.blend[1-9]
